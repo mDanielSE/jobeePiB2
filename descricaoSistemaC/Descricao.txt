@@ -1,0 +1,3 @@
+Responsável: Carlos
+Task: Inserir documento de Gerência de Requisitos, onde são informados a descrição
+do Sistema e as funcionalidades.
