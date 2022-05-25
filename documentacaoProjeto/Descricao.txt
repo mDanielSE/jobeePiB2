@@ -2,7 +2,7 @@ Responsável: Beatriz, Carlos, Daniel, Jordan
 Task: Inserir documentação de Projetos
 
 TAP > Daniel - OK
-Plano de Projetos > Beatriz
+Plano de Projetos > Beatriz OK
 EAP > Jordan
 Cronograma > Carlos
 Termo de aceite > Daniel - OK
