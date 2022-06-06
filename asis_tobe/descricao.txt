@@ -1,6 +1,6 @@
 Anexar arquivos do AS-IS e TO-BE
-Jordan: Arquivo do bizagi e um print (caso quem vai olhar não tem o bizagi) 
-Beatriz: Arquivo do bizagi e um print (caso quem vai olhar não tem o bizagi)
+Jordan: AS-IS >Arquivo do bizagi e um print (caso quem vai olhar não tem o bizagi) 
+Beatriz: TO-BE > Arquivo do bizagi e um print (caso quem vai olhar não tem o bizagi)
 Deverão criar uma branch, inserir os arquivos e criar um pull request no Github. 
 O merge eu (Daniel) faço. (Só para seguir o controle lá que o gerenciador do 
 repositório analisa o pull request e faz o merge.)
