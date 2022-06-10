@@ -1,0 +1,2 @@
+Beatriz e Daniel
+Fazer telas no ionic para tratar cada tabela do banco de dados da startup
