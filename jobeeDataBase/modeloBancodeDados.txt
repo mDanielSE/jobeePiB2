@@ -27,49 +27,49 @@ create table experienciasProfissionais(
 
 3-Informe aqui o comando SQL usado para incluir (no mínimo) 3 registros em cada tabela.
 
-insert to dadospessoais
+insert into dadospessoais
 (nome, nascimento, sexo, nacionalidade,cpf)
 values
 ('Maria Nascimento', '2000-05-01', 'F', 'brasileira', '101.145.255-15');
 
 
-insert to dadospessoais
+insert into dadospessoais
 (nome, nascimento, sexo, nacionalidade,cpf)
 values
 ('Joao Costa', '1988-04-03', 'M', 'brasileira', '255.899.758-15');
 
-insert to dadospessoais
+insert into dadospessoais
 (nome, nascimento, sexo, nacionalidade,cpf)
 values
 ('Jordana Alves', '1990-02-01', 'F', 'brasileira', '010.040.555-10');
 
 
-insert to escolaridade
+insert into escolaridade
 (graduacao, mestrado, certificacoes)
 values
 ('bacharel em ciência da computacao', 'sem mestrado', 'certificaçao em cloud professional');
 
-insert to escolaridade
+insert into escolaridade
 (graduacao, mestrado, certificacoes)
 values
 ('bacharel em direito', ''mestrado em direito negocial', 'sem certificacao'');
 
-insert to escolaridade
+insert into escolaridade
 (graduacao, mestrado, certificacoes)
 values
 ('bacharel em matematica', 'sem mestrado', 'sem certificaçao');
 
-insert to experienciasprofissionais
+insert into experienciasprofissionais
 (cargo, duracao, descricao)
 values
 ('programador júnior', '2,5', 'atividades relacionadas programação frontend');
 
-insert to experienciasprofissionais
+insert into experienciasprofissionais
 (cargo, duracao, descricao)
 values
 ('advogado', '4', 'atividades relacionadas a interposição de recursos, controle de prazos, audiências e atendimento ao público');
 
-insert to experienciasprofissionais
+insert into experienciasprofissionais
 (cargo, duracao, descricao)
 values
 ('professor', '3', 'docência para ensino médio e cursinhos pré-vestibulares');
@@ -79,7 +79,7 @@ values
 
 4-Informe aqui o comando SQL para selecionar registros em (UMA) das tabelas do seu banco de dados, usando ao menos UM FILTRO e ordenando os valores por uma das colulas.
 
-R: select graduação from escolaridade where graduação= 'ciencia da computação, e select nome from dadospessoais order by alfabeto.
+R: select graduação from escolaridade where graduação= 'ciencia da computação' select nome from dadospessoais order by asc.
 
 5-Informe aqui o comando SQL para apagar UM dos registros e UMA das tabelas.
 
